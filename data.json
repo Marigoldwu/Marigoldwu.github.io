@@ -1,0 +1,81 @@
+{
+  "citations": "0",
+  "followers": "7",
+  "news": {
+    "news2": {
+      "date": "2023.8.1",
+      "icon": "el-icon-loading",
+      "type": "primary",
+      "content1": "One paper ",
+      "content2": "has been ",
+      "content3": "submitted ",
+      "content4": "to ",
+      "journal": "AAAI 2024",
+      "journalFullName": "The 38th Annual AAAI Conference on Artificial Intelligence",
+      "ccf": "A",
+      "journalLink": "https://aaai.org/aaai-conference/",
+      "paperLink": "",
+      "codeLink": ""
+    },
+    "news1": {
+      "date": "2023.7.21",
+      "icon": "el-icon-check",
+      "type": "success",
+      "content1": "One paper ",
+      "content2": "has been ",
+      "content3": "accepted ",
+      "content4": "by ",
+      "journal": "PR",
+      "journalFullName": "Pattern Recognition",
+      "ccf": "B",
+      "journalLink": "https://www.sciencedirect.com/journal/pattern-recognition",
+      "paperLink": "https://doi.org/10.1016/j.patcog.2023.109833",
+      "codeLink": "https://github.com/Marigoldwu/GC-SEE"
+    }
+  },
+  "experiences": {
+    "education": {
+      "experience5": {
+        "date": "2022/08/28 - Present",
+        "icon": "el-icon-loading",
+        "type": "primary",
+        "content": "Major in Computer Science and Technology, CUMT, supervised by Prof. ",
+        "prof": "Shifei Ding.",
+        "profLink": "https://cs.cumt.edu.cn/info/1096/4454.htm"
+      },
+      "experience4": {
+        "date": "2022/06/17",
+        "icon": "el-icon-check",
+        "type": "success",
+        "content": "Achieved Bachelor's Degree in Computer Science and Technology.",
+        "prof": "",
+        "profLink": ""
+      },
+      "experience3": {
+        "date": "2021/09/28",
+        "icon": "el-icon-check",
+        "type": "success",
+        "content": "Recommended for admission to CUMT for a master's degree.",
+        "prof": "",
+        "profLink": ""
+      },
+      "experience2": {
+        "date": "2019/09/01 - 2022/06/17",
+        "icon": "el-icon-check",
+        "type": "success",
+        "content": "Major in Computer Science and Technology, CUMT.",
+        "prof": "",
+        "profLink": ""
+      },
+      "experience1": {
+        "date": "2018/08/28 - 2019/08/31",
+        "icon": "el-icon-check",
+        "type": "success",
+        "content": "Major in Geology, CUMT.",
+        "prof": "",
+        "profLink": ""
+      }
+    },
+    "social": {}
+  }
+}
