@@ -1,6 +1,6 @@
 {
   "citations": "0",
-  "followers": "7",
+  "followers": "8",
   "news": {
     "news2": {
       "date": "2023.8.1",
@@ -39,7 +39,7 @@
         "date": "2022/08/28 - Present",
         "icon": "el-icon-loading",
         "type": "primary",
-        "content": "Major in Computer Science and Technology, CUMT, supervised by Prof. ",
+        "content": "Pursuing a Master's Degree in Computer Science, CUMT, supervised by Prof. ",
         "prof": "Shifei Ding.",
         "profLink": "https://cs.cumt.edu.cn/info/1096/4454.htm"
       },
@@ -77,5 +77,37 @@
       }
     },
     "social": {}
+  },
+  "awards": {
+    "award5": {
+      "type": "primary",
+      "icon": "el-icon-medal",
+      "date": "2022/09",
+      "content": "Outstanding Freshman Scholarship, CUMT."
+    },
+    "award4": {
+      "type": "success",
+      "icon": "el-icon-medal",
+      "date": "2022/06",
+      "content": "Outstanding Graduates Awards, CUMT."
+    },
+    "award3": {
+      "type": "danger",
+      "icon": "el-icon-medal-1",
+      "date": "2021/12",
+      "content": "The First-Prize Scholarship, CUMT."
+    },
+    "award2": {
+      "type": "primary",
+      "icon": "el-icon-medal",
+      "date": "2020/12",
+      "content": "The Second-Prize Scholarship, CUMT."
+    },
+    "award1": {
+      "type": "primary",
+      "icon": "el-icon-medal",
+      "date": "2019/11",
+      "content": "The Second-Prize Scholarship, CUMT."
+    }
   }
 }
