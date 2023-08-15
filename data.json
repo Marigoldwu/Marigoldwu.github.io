@@ -2,21 +2,6 @@
   "citations": "0",
   "followers": "8",
   "news": {
-    "news2": {
-      "date": "2023.8.1",
-      "icon": "el-icon-loading",
-      "type": "primary",
-      "content1": "One paper ",
-      "content2": "has been ",
-      "content3": "submitted ",
-      "content4": "to ",
-      "journal": "AAAI 2024",
-      "journalFullName": "The 38th Annual AAAI Conference on Artificial Intelligence",
-      "ccf": "A",
-      "journalLink": "https://aaai.org/aaai-conference/",
-      "paperLink": "",
-      "codeLink": ""
-    },
     "news1": {
       "date": "2023.7.21",
       "icon": "el-icon-check",
@@ -32,6 +17,21 @@
       "paperLink": "https://doi.org/10.1016/j.patcog.2023.109833",
       "codeLink": "https://github.com/Marigoldwu/GC-SEE"
     }
+  },
+  "news2": {
+    "date": "2023.8.1",
+    "icon": "el-icon-loading",
+    "type": "primary",
+    "content1": "One paper ",
+    "content2": "has been ",
+    "content3": "submitted ",
+    "content4": "to ",
+    "journal": "AAAI 2024",
+    "journalFullName": "The 38th Annual AAAI Conference on Artificial Intelligence",
+    "ccf": "A",
+    "journalLink": "https://aaai.org/aaai-conference/",
+    "paperLink": "",
+    "codeLink": ""
   },
   "experiences": {
     "education": {
@@ -87,7 +87,7 @@
     },
     "award4": {
       "type": "success",
-      "icon": "el-icon-medal",
+      "icon": "el-icon-trophy",
       "date": "2022/06",
       "content": "Outstanding Graduates Awards, CUMT."
     },
