@@ -2,9 +2,17 @@
   "citations": "4",
   "followers": "8",
   "news": {
+    "news2": {
+      "date": "2023.10.12",
+      "icon": "el-icon-medal-1",
+      "newsType": "award",
+      "type": "danger",
+      "content": "The First-Prize Scholarship, CUMT."
+    },
     "news1": {
       "date": "2023.7.21",
       "icon": "el-icon-check",
+      "newsType": "paper",
       "type": "success",
       "content1": "One paper ",
       "content2": "has been ",
@@ -17,21 +25,6 @@
       "paperLink": "https://doi.org/10.1016/j.patcog.2023.109833",
       "codeLink": "https://github.com/Marigoldwu/GC-SEE"
     }
-  },
-  "news2": {
-    "date": "2023.8.1",
-    "icon": "el-icon-loading",
-    "type": "primary",
-    "content1": "One paper ",
-    "content2": "has been ",
-    "content3": "submitted ",
-    "content4": "to ",
-    "journal": "AAAI 2024",
-    "journalFullName": "The 38th Annual AAAI Conference on Artificial Intelligence",
-    "ccf": "A",
-    "journalLink": "https://aaai.org/aaai-conference/",
-    "paperLink": "",
-    "codeLink": ""
   },
   "experiences": {
     "education": {
@@ -79,6 +72,12 @@
     "social": {}
   },
   "awards": {
+    "award6": {
+      "type": "danger",
+      "icon": "el-icon-medal-1",
+      "date": "2023/10",
+      "content": "The First-Prize Scholarship, CUMT."
+    },
     "award5": {
       "type": "primary",
       "icon": "el-icon-medal",
