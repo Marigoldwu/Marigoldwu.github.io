@@ -24,7 +24,7 @@ Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo, Ling Ding
 
 [**Project**](https://github.com/Marigoldwu/GC-SEE) ![](https://img.shields.io/github/stars/Marigoldwu/GC-SEE?style=social) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:2osOgNQ5qMEC'></span></strong>
 
-- GC-SEE enhances the structural information in embeddings for clustering by considering different types of structural information.
+- GC-SEE enhances the structural information in embeddings for clustering by utilizing different types of structural information.
 
 </div>
 </div>
