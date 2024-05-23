@@ -1,5 +1,5 @@
 
-# 📝 Projects & Publications 
+# 📝 Projects and Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-source Repo</div><img src='images/ufdgc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
