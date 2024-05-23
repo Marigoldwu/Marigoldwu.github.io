@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Benyu Wu's Homepage."
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Benyu Wu (吴本钰)"
+description              : "Deep Graph Clustering, Graph Machine Learning"
 repository               : "Marigoldwu/Marigoldwu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-V6M0GPX94W
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Benyu Wu"
+  name             : "Benyu Wu (吴本钰)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "China University of Mining and Technology"
   location         : "Xuzhou, China"
@@ -65,7 +65,6 @@ include:
   - _pages
   - files
 exclude:
-  - docs
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
