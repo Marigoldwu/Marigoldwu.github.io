@@ -1,14 +1,8 @@
 
 # 📝 Projects and Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Open-source Repo</div>
-      <img src='images/ufdgc.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-source Repo</div><img src='images/ufdgc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [A Unified Framework for Deep Attribute Graph Clustering](https://github.com/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering) \\
 **Benyu Wu**
@@ -18,17 +12,11 @@
 - UFDGC is a scalable unified framework for deep graph clustering.
 - Include GAE、DAEGC、SDCN、AGCN、EFR-DGC、DFCN、HSAN、DCRN、CCGC、AGC-DRR.
 
-  </div>
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-      <img src='images/sync.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sync.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Synergistic Deep Graph Clustering Network]() \\
 **Benyu Wu**, Shifei Ding\*, Xiao Xu, Lili Guo, Ling Ding and Xindong Wu
@@ -39,17 +27,11 @@
 - A synergistic framework of representation learning and structure augmentation is proposed to exploit the reciprocal relationship between them to jointly improve the embedding quality.
 - Structure fine-tuning strategy improve the generalization ability of the model.
 
-  </div>
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TKDD</div>
-      <img src='images/fastdgc.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/fastdgc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Towards Faster Deep Graph Clustering via Efficient Graph Auto-Encoder]() \\
 Shifei Ding, **Benyu Wu**, Ling Ding, Xiao Xu, Lili Guo, Hongmei Liao\* and Xindong Wu
@@ -59,7 +41,7 @@ Shifei Ding, **Benyu Wu**, Ling Ding, Xiao Xu, Lili Guo, Hongmei Liao\* and Xind
 - EGAE optimizes the GAE from the perspectives of data dimension and graph convolution efficiency.
 - Dynamic graph weight updating strategy adjust the structure during the training process.
 
-  </div>
+</div>
 </div>
 
 
