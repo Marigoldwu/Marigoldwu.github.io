@@ -31,7 +31,7 @@
   <div class='paper-box-text' markdown="1">
 
 [Synergistic Deep Graph Clustering Network]() \\
-**Benyu Wu**, Shifei Ding, Xiao Xu, Lili Guo, Ling Ding and Xindong Wu
+**Benyu Wu**, Shifei Ding\*, Xiao Xu, Lili Guo, Ling Ding and Xindong Wu
 
 [**CODE**](https://github.com/Marigoldwu/SynC) ![](https://img.shields.io/github/stars/Marigoldwu/SynC?style=social) 
 
@@ -52,7 +52,7 @@
   <div class='paper-box-text' markdown="1">
 
 [Towards Faster Deep Graph Clustering via Efficient Graph Auto-Encoder]() \\
-Shifei Ding, **Benyu Wu**, Ling Ding, Xiao Xu, Lili Guo, Hongmei Liao and Xindong Wu
+Shifei Ding, **Benyu Wu**, Ling Ding, Xiao Xu, Lili Guo, Hongmei Liao\* and Xindong Wu
 
 [**CODE**](https://github.com/Marigoldwu/FastDGC) ![](https://img.shields.io/github/stars/Marigoldwu/FastDGC?style=social) 
 
@@ -67,7 +67,7 @@ Shifei Ding, **Benyu Wu**, Ling Ding, Xiao Xu, Lili Guo, Hongmei Liao and Xindon
 <div class='paper-box-text' markdown="1">
 
 [Graph Clustering Network with Structure Embedding Enhanced](https://www.sciencedirect.com/science/article/pii/S0031320323005319) \\
-Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo and Ling Ding
+Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo and Ling Ding\*
 
 [**CODE**](https://github.com/Marigoldwu/GC-SEE) ![](https://img.shields.io/github/stars/Marigoldwu/GC-SEE?style=social) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:2osOgNQ5qMEC'></span></strong>
 
@@ -75,3 +75,5 @@ Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo and Ling Ding
 
 </div>
 </div>
+
+> \* indicates corresponding author.
