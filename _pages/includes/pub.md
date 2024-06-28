@@ -18,7 +18,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sync.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Synergistic Deep Graph Clustering Network]() \\
+[Synergistic Deep Graph Clustering Network](https://arxiv.org/abs/2406.15797) \\
 **Benyu Wu**, Shifei Ding\*, Xiao Xu, Lili Guo, Ling Ding and Xindong Wu
 
 [**CODE**](https://github.com/Marigoldwu/SynC) ![](https://img.shields.io/github/stars/Marigoldwu/SynC?style=social) 
