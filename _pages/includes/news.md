@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.11.25*: 🎉 The First-Prize Scholarship, CUMT.
 - *2024.06.22*: 🎉 One Paper is accepted by TKDD.
 - *2023.10.12*: 🎉 The First-Prize Scholarship, CUMT.
 - *2023.07.21*: 🎉 One Paper is accepted by Pattern Recognition. 
