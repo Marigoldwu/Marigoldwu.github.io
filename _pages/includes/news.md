@@ -1,8 +1,9 @@
 # 🔥 News
-- *2024.11.25*: 🎉 The First-Prize Scholarship, CUMT.
-- *2024.06.22*: 🎉 One Paper is accepted by TKDD.
-- *2023.10.12*: 🎉 The First-Prize Scholarship, CUMT.
-- *2023.07.21*: 🎉 One Paper is accepted by Pattern Recognition. 
+- *2024.12.01*: 🎉 I won the China National Scholarship for Graduate Students.
+- *2024.11.25*: 🎉 I won the First-Prize Scholarship, CUMT.
+- *2024.06.22*: 🎉 One Paper has been accepted by ACM TKDD.
+- *2023.10.12*: 🎉 I won the First-Prize Scholarship, CUMT.
+- *2023.07.21*: 🎉 One Paper has been accepted by Pattern Recognition. 
 
 <details>
   <summary>Click to expand/collapse Previous news</summary>

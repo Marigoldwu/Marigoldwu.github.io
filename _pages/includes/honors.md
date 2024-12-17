@@ -1,4 +1,5 @@
 # 🏅 Honors and Awards
+- *2024.12* 🏆 The China National Scholarship for Graduate Students.
 - *2024.11* 🥇 The First-Prize Scholarship, CUMT.
 - *2023.10* 🥇 The First-Prize Scholarship, CUMT.
 - *2022.09* 🏆 Outstanding Freshman Scholarship, CUMT.
