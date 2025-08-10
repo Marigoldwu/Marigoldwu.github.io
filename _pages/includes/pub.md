@@ -1,16 +1,15 @@
 
 # 📝 Projects and Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-source Repo</div><img src='images/ufdgc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-source Repo</div><img src='images/pydgc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Unified Framework for Deep Attribute Graph Clustering](https://github.com/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering) \\
+[PyDGC](https://github.com/Marigoldwu/PyDGC) \\
 **Benyu Wu**
-
-[**CODE**](https://github.com/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering) ![](https://img.shields.io/github/stars/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering?style=social) 
-
-- UFDGC is a scalable unified framework for deep graph clustering.
-- Include GAE、DAEGC、SDCN、AGCN、EFR-DGC、DFCN、HSAN、DCRN、CCGC、AGC-DRR.
+[**CODE**](https://github.com/Marigoldwu/PyDGC) ![](https://img.shields.io/github/stars/Marigoldwu/PyDGC?style=social) 
+- PyDGC is a unified, flexible, and extensible framework for deep graph clustering.
+- It provides a variety of graph clustering methods and datasets, making it easy to reproduce, implement, and evaluate algorithms.
+- It also includes a comprehensive set of evaluation metrics for graph clustering tasks.
 
 </div>
 </div>
