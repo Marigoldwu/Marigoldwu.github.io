@@ -35,7 +35,7 @@
 [Towards Faster Deep Graph Clustering via Efficient Graph Auto-Encoder](https://dl.acm.org/doi/10.1145/3674983) \\
 Shifei Ding, **Benyu Wu**, Ling Ding, Xiao Xu, Lili Guo, Hongmei Liao\* and Xindong Wu
 
-[**CODE**](https://github.com/Marigoldwu/FastDGC) ![](https://img.shields.io/github/stars/Marigoldwu/FastDGC?style=social)
+[**CODE**](https://github.com/Marigoldwu/FastDGC) ![](https://img.shields.io/github/stars/Marigoldwu/FastDGC?style=social) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
 - EGAE optimizes the GAE from the perspectives of data dimension and graph convolution efficiency.
 - Dynamic graph weight updating strategy adjust the structure during the training process.
