@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Benyu Wu (吴本钰)"
-description              : "Ph.D. Student at SDU"
+description              : "Bioinformatics, Spatial Proteomics, Deep Graph Clustering, Graph Machine Learning"
 repository               : "Marigoldwu/Marigoldwu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Benyu Wu (吴本钰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Bioinformatics, Spatial Proteomics, Deep Graph Clustering, Graph Machine Learning"
+  bio              : "Ph.D. Student at SDU"
   location         : "Jinan, China"
   employer         :
   pubmed           : 
