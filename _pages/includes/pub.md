@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [PyDGC](https://github.com/Marigoldwu/PyDGC) \\
-**Benyu Wu**
+**Benyu Wu†**, Yue Liu†
 [**CODE**](https://github.com/Marigoldwu/PyDGC) ![](https://img.shields.io/github/stars/Marigoldwu/PyDGC?style=social) 
 - PyDGC is a unified, flexible, and extensible framework for deep graph clustering.
 - It provides a variety of graph clustering methods and datasets, making it easy to reproduce, implement, and evaluate algorithms.
@@ -18,7 +18,7 @@
 <div class='paper-box-text' markdown="1">
 
 [DGCBench: A Deep Graph Clustering Benchmark](https://openreview.net/pdf?id=dKVUUZfcW9) \\
-**Benyu Wu\+**, Yue Liu\+, Qiaoyu Tan, Xinwang Liu, Wei Du, Jun Wang, Guoxian Yu\*
+**Benyu Wu†**, Yue Liu†, Qiaoyu Tan, Xinwang Liu, Wei Du, Jun Wang, Guoxian Yu\*
 
 [**CODE**](https://github.com/Marigoldwu/PyDGC)
 
@@ -86,4 +86,4 @@ Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo and Ling Ding\*
 </div>
 </div>
 
-> \* indicates corresponding author. \+ indicates equal contribution.
+> \* indicates corresponding author. † indicates equal contribution.
