@@ -20,7 +20,7 @@
 [DGCBench: A Deep Graph Clustering Benchmark](https://openreview.net/pdf?id=dKVUUZfcW9) \\
 **Benyu Wu†**, Yue Liu†, Qiaoyu Tan, Xinwang Liu, Wei Du, Jun Wang, Guoxian Yu\*
 
-[**CODE**](https://github.com/Marigoldwu/PyDGC)
+[**CODE**](https://github.com/Marigoldwu/PyDGC) ![](https://img.shields.io/github/stars/Marigoldwu/PyDGC?style=social) 
 
 - DGCBench is the first systematic DGC benchmark, including 12 diverse datasets, 12 SOTA methods and a standardized pipeline for fair, reproducible evaluations.
 - It provides holistic multi-faceted analysis of DGC methods, covering effectiveness, efficiency, robustness, stability, scalability and discriminability beyond basic metrics to reveal weaknesses.
