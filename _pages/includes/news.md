@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.09.19*: 🎉 One Paper has been accepted by NeurIPS 2025 D&B Track.
+- *2025.09.19*: 🎉 One Paper has been accepted by NeurIPS 2025 D&amp;B Track.
 - *2025.04.29*: 🎉 One Paper has been accepted by IJCAI 2025.
 
 <details>

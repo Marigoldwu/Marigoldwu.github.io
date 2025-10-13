@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D&B 2025</div><img src='images/dgcbench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D&amp;B 2025</div><img src='images/dgcbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DGCBench: A Deep Graph Clustering Benchmark](https://openreview.net/pdf?id=dKVUUZfcW9) \\
