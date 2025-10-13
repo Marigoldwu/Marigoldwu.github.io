@@ -1,15 +1,15 @@
 # 🔥 News
-- *2024.12.01*: 🎉 I won the China National Scholarship for Graduate Students.
-- *2024.11.25*: 🎉 I won the First-Prize Scholarship, CUMT.
-- *2024.06.22*: 🎉 One Paper has been accepted by ACM TKDD.
-- *2023.10.12*: 🎉 I won the First-Prize Scholarship, CUMT.
-- *2023.07.21*: 🎉 One Paper has been accepted by Pattern Recognition. 
+- *2025.09.19*: 🎉 One Paper has been accepted by NeurIPS 2025 D&B Track.
+- *2025.04.29*: 🎉 One Paper has been accepted by IJCAI 2025.
 
 <details>
   <summary>Click to expand/collapse Previous news</summary>
   <ul>
-    <li><i>2022.06.17</i>:🎓 Achieve Bachelor's Degree in Computer Science and Technology.</li>
-    <li><i>2021.09.28</i>:🏫 Recommend for admission to CUMT for a master's degree.
-    </li>
+    <li><i>2025.01.13</i>: 🏫 I was admitted as Ph.D. student in software engineering at SDU, supervised by <i>Prof.</i> Guoxian Yu.</li>
+    <li><i>2024.12.01</i>: 🎉 I won the China National Scholarship for Graduate Students.</li>
+    <li><i>2024.11.25</i>: 🎉 I won the First-Prize Scholarship, CUMT.</li>
+    <li><i>2024.06.22</i>: 🎉 One Paper has been accepted by ACM TKDD.</li>
+    <li><i>2023.10.12</i>: 🎉 I won the First-Prize Scholarship, CUMT.</li>
+    <li><i>2023.07.21</i>: 🎉 One Paper has been accepted by Pattern Recognition.</li>
   </ul>
 </details>

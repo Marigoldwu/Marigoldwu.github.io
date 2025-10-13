@@ -14,6 +14,35 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D&B 2025</div><img src='images/dgcbench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DGCBench: A Deep Graph Clustering Benchmark](https://openreview.net/pdf?id=dKVUUZfcW9) \\
+**Benyu Wu\+**, Yue Liu\+, Qiaoyu Tan, Xinwang Liu, Wei Du, Jun Wang, Guoxian Yu\*
+
+[**CODE**](https://github.com/Marigoldwu/PyDGC)
+
+- DGCBench is the first systematic DGC benchmark, including 12 diverse datasets, 12 SOTA methods and a standardized pipeline for fair, reproducible evaluations.
+- It provides holistic multi-faceted analysis of DGC methods, covering effectiveness, efficiency, robustness, stability, scalability and discriminability beyond basic metrics to reveal weaknesses.
+- It provides PyDGC, an open-source Python toolkit compatible with PyG and OGB, supports flexible integration of new models and datasets for DGC development.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/i2mvc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Imputation-free Incomplete Multi-view Clustering via Knowledge Distillation](https://www.ijcai.org/proceedings/2025/0731.pdf) \\
+**Benyu Wu**, Wei Du\*, Jun Wang, Guoxian Yu\*
+
+[**CODE**](https://www.sdu-idea.cn/codes.php?name=I2MVC)
+
+- I2MVC is an imputation-free framework for incomplete multi-view clustering, avoiding error accumulation and reducing processing complexity.
+- It uses divide-and-conquer with pseudo-supervised knowledge distillation, enabling single-view-based incomplete data clustering without all views.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sync.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,4 +86,4 @@ Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo and Ling Ding\*
 </div>
 </div>
 
-> \* indicates corresponding author.
+> \* indicates corresponding author. \+ indicates equal contribution.
