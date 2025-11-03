@@ -8,7 +8,10 @@ main:
 
   - title: "Projects and Publications"
     url: "/#-projects-and-publications"
-
+  
+  - title: "Services"
+    url: "/#-services"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
