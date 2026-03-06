@@ -6,6 +6,7 @@
 
 [PyDGC](https://github.com/Marigoldwu/PyDGC) \\
 **Benyu Wu†**, Yue Liu†
+
 [**CODE**](https://github.com/Marigoldwu/PyDGC) ![](https://img.shields.io/github/stars/Marigoldwu/PyDGC?style=social) 
 - PyDGC is a unified, flexible, and extensible framework for deep graph clustering.
 - It provides a variety of graph clustering methods and datasets, making it easy to reproduce, implement, and evaluate algorithms.
@@ -46,7 +47,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/sync.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Synergistic Deep Graph Clustering Network](https://arxiv.org/abs/2406.15797) \\
+[SynC: Synergistic Boosting of Structure and Representation for Deep Graph Clustering](https://ieeexplore.ieee.org/abstract/document/11314181) \\
 Shifei Ding, **Benyu Wu**\*, Xiao Xu\*, Ling Ding and Xindong Wu
 
 [**CODE**](https://github.com/Marigoldwu/SynC) ![](https://img.shields.io/github/stars/Marigoldwu/SynC?style=social) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:IjCSPb-OGe4C'></span></strong>
@@ -86,8 +87,8 @@ Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo and Ling Ding\*
 </div>
 </div>
 
-Liu Y†, Xia J†, **Wu B†**, Zhou S, Yang X, Liang K, Fan C, Zhuang Y, Yu G, Li S, Liu X, He K. A survey of deep graph clustering: Taxonomy, challenge, application, and open resource[J]. *IEEE Transactions on Knowledge and Data Engineering*, 2026.
+Liu Y†, Xia J†, **Wu B†**, Zhou S, Yang X, Liang K, Fan C, Zhuang Y, Yu G, Li S, Liu X\*, He K. A survey of deep graph clustering: Taxonomy, challenge, application, and open resource[J]. *IEEE Transactions on Knowledge and Data Engineering*, 2026.
 
-Du W, Wu B, Sun Y, Guo W, Du Y, Yan Z, Cui L. Learning Efficient and Interpretable Multi-Agent Communication[C]. *The FourteenthInternational Conference on Learning Representations (ICLR)*, 2026.
+Du W, Wu B, Sun Y, Guo W, Du Y, Yan Z, Yu G\*, Cui L\*. Learning Efficient and Interpretable Multi-Agent Communication[C]. *The Fourteenth International Conference on Learning Representations (ICLR)*, 2026.
 
 > \* indicates corresponding author. † indicates equal contribution.
