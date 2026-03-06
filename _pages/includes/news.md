@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.02.14*: 🎉 One Paper is accepted by IEEE TKDE, congratulations to Co-authors!
+- *2026.01.26*: 🎉 One Paper is accepted by ICLR, congratulations to Co-authors!
 - *2025.12.10*: 🎉 One Paper is accepted by IEEE TNNLS.
 - *2025.09.19*: 🎉 One Paper is accepted by NeurIPS 2025 D&amp;B Track.
 - *2025.04.29*: 🎉 One Paper is accepted by IJCAI 2025.

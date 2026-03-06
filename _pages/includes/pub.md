@@ -86,4 +86,8 @@ Shifei Ding, **Benyu Wu**, Xiao Xu, Lili Guo and Ling Ding\*
 </div>
 </div>
 
+Liu Y†, Xia J†, **Wu B†**, Zhou S, Yang X, Liang K, Fan C, Zhuang Y, Yu G, Li S, Liu X, He K. A survey of deep graph clustering: Taxonomy, challenge, application, and open resource[J]. *IEEE Transactions on Knowledge and Data Engineering*, 2026.
+
+Du W, Wu B, Sun Y, Guo W, Du Y, Yan Z, Cui L. Learning Efficient and Interpretable Multi-Agent Communication[C]. *The FourteenthInternational Conference on Learning Representations (ICLR)*, 2026.
+
 > \* indicates corresponding author. † indicates equal contribution.
