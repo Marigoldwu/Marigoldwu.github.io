@@ -1,3 +1,3 @@
-👋 Hi! I'm 👦 Benyu Wu (吴本钰). I am currently pursuing a Ph.D. 🎓 in Software Engineering at the Intelligent Data Engineering and Analytics (*[IDEA](https://www.sdu-idea.cn/)*) Lab, Shandong University (SDU), under the supervision of 👨‍🏫 Professor *[Guoxian Yu](https://faculty.sdu.edu.cn/yuguoxian/zh_CN/index.htm)*.
+👋 Hi! I'm 👦 Benyu Wu (吴本钰), currently pursuing a Ph.D. 🎓 in Software Engineering at the Intelligent Data Engineering and Analytics (*[IDEA](https://www.sdu-idea.cn/)*) Lab, Shandong University (SDU), under the supervision of 👨‍🏫 Professor *[Guoxian Yu](https://faculty.sdu.edu.cn/yuguoxian/zh_CN/index.htm)*.
 
 👨‍🔬 My current research focuses on Bioinformatics, Spatial Proteomics, Deep Graph Clustering, and Graph Machine Learning. I am always open to discussions and exchanging ideas!

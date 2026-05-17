@@ -15,6 +15,20 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026 AI4Sci</div><img src='images/spClust.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Single-Cell Spatial Proteomics Clustering by Decoupling Spatiality and Expression](https://openreview.net/pdf?id=kh98Ks0tl7) \\
+**Benyu Wu†**, Shan Zhang, Yuequn Wang, Liangrui Ren, Wei Du, Jun Wang, Carlotta Domeniconi, Guoxian Yu\*
+
+<!-- [**CODE**](https://github.com/Marigoldwu/PyDGC) -->
+
+- It introduces a plug-and-play Spa-CSMOTE to reduce clustering bias caused by imbalanced cell-type distribution via synthesizing virtual cells.
+- spClust is a decoupled dual-view contrastive learning approach that leverages spatial adjacency and expression similarity views to effectively mitigate heterogeneity between the two views.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D&amp;B 2025</div><img src='images/dgcbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
