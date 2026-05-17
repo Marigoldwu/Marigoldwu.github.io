@@ -35,7 +35,7 @@
 [DGCBench: A Deep Graph Clustering Benchmark](https://openreview.net/pdf?id=dKVUUZfcW9) \\
 **Benyu Wu†**, Yue Liu†, Qiaoyu Tan, Xinwang Liu, Wei Du, Jun Wang, Guoxian Yu\*
 
-[**CODE**](https://github.com/Marigoldwu/PyDGC) ![](https://img.shields.io/github/stars/Marigoldwu/PyDGC?style=social) 
+[**CODE**](https://github.com/Marigoldwu/PyDGC) ![](https://img.shields.io/github/stars/Marigoldwu/PyDGC?style=social) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:hkOj_22Ku90C'></span></strong>
 
 - DGCBench is the first systematic DGC benchmark, including 12 diverse datasets, 12 SOTA methods and a standardized pipeline for fair, reproducible evaluations.
 - It provides holistic multi-faceted analysis of DGC methods, covering effectiveness, efficiency, robustness, stability, scalability and discriminability beyond basic metrics to reveal weaknesses.
@@ -50,7 +50,8 @@
 [Imputation-free Incomplete Multi-view Clustering via Knowledge Distillation](https://www.ijcai.org/proceedings/2025/0731.pdf) \\
 **Benyu Wu**, Wei Du\*, Jun Wang, Guoxian Yu\*
 
-[**CODE**](https://www.sdu-idea.cn/codes.php?name=I2MVC)
+[**CODE**](https://www.sdu-idea.cn/codes.php?name=I2MVC) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:URolC5Kub84C'></span></strong>
+
 
 - I2MVC is an imputation-free framework for incomplete multi-view clustering, avoiding error accumulation and reducing processing complexity.
 - It uses divide-and-conquer with pseudo-supervised knowledge distillation, enabling single-view-based incomplete data clustering without all views.
