@@ -1,4 +1,5 @@
 # 🏅 Honors and Awards
+- *2026.05* 🏆 The CSC Scholarship for a visiting PhD.
 - *2025.12* 🥇 The First-Prize Scholarship, SDU.
 - *2024.12* 🏆 The China National Scholarship for Graduate Students.
 - *2024.11* 🥇 The First-Prize Scholarship, CUMT.

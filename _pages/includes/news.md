@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05.28*: 🎉 Awarded the CSC Scholarship for a visiting PhD.
 - *2026.05.17*: 🎉 One Paper is accepted by KDD AI4Sciences Track!
 - *2026.02.14*: 🎉 One Paper is accepted by IEEE TKDE, congratulations to Co-authors!
 - *2026.01.26*: 🎉 One Paper is accepted by ICLR, congratulations to Co-authors!
