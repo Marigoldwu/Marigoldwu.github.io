@@ -1,3 +1,3 @@
 # 🔎 Services
-- **Conference Reviewer**: NeurIPS'26, ICML'26 (Silver Reviewer), ICLR'26, KDD'26, etc.
-- **Journal Reviewer**: IEEE T-PAMI, IEEE T-NNLS, Neurocomputing, etc.
+- **Conference Reviewer**: NeurIPS'26, ICML'26 (Silver Reviewer), ICLR'26, KDD'26, ICDM'26 etc.
+- **Journal Reviewer**: IEEE T-PAMI, IEEE T-NNLS, Neurocomputing, TMLR, etc.
