@@ -21,7 +21,7 @@
 [Single-Cell Spatial Proteomics Clustering by Decoupling Spatiality and Expression](https://openreview.net/pdf?id=kh98Ks0tl7) \\
 **Benyu Wu†**, Shan Zhang, Yuequn Wang, Liangrui Ren, Wei Du, Jun Wang, Carlotta Domeniconi, Guoxian Yu\*
 
-<!-- [**CODE**](https://github.com/Marigoldwu/PyDGC) -->
+[**CODE**](https://www.sdu-idea.cn/codes.php?name=spClust)
 
 - It introduces a plug-and-play Spa-CSMOTE to reduce clustering bias caused by imbalanced cell-type distribution via synthesizing virtual cells.
 - spClust is a decoupled dual-view contrastive learning approach that leverages spatial adjacency and expression similarity views to effectively mitigate heterogeneity between the two views.
@@ -65,7 +65,7 @@
 [SynC: Synergistic Boosting of Structure and Representation for Deep Graph Clustering](https://ieeexplore.ieee.org/abstract/document/11314181) \\
 Shifei Ding, **Benyu Wu**\*, Xiao Xu\*, Ling Ding and Xindong Wu
 
-[**CODE**](https://github.com/Marigoldwu/SynC) ![](https://img.shields.io/github/stars/Marigoldwu/SynC?style=social) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:IjCSPb-OGe4C'></span></strong>
+[**CODE**](https://github.com/Marigoldwu/SynC) ![](https://img.shields.io/github/stars/Marigoldwu/SynC?style=social) <strong><span class='show_paper_citations' data='VZ02aQsAAAAJ:uWiczbcajpAC'></span></strong>
 
 - TIGAE uses simple linear transformation to introduce explicit graph Laplacian information to alleviate representation collapse.
 - A synergistic framework of representation learning and structure augmentation is proposed to exploit the reciprocal relationship between them to jointly improve the embedding quality.
